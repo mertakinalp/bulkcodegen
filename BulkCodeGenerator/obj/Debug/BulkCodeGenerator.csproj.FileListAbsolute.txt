@@ -1,0 +1,8 @@
+c:\users\merta\documents\visual studio 2012\Projects\BulkCodeGenerator\BulkCodeGenerator\bin\Debug\BulkCodeGenerator.exe
+c:\users\merta\documents\visual studio 2012\Projects\BulkCodeGenerator\BulkCodeGenerator\bin\Debug\BulkCodeGenerator.pdb
+c:\users\merta\documents\visual studio 2012\Projects\BulkCodeGenerator\BulkCodeGenerator\obj\Debug\BulkCodeGenerator.csprojResolveAssemblyReference.cache
+c:\users\merta\documents\visual studio 2012\Projects\BulkCodeGenerator\BulkCodeGenerator\obj\Debug\BulkCodeGenerator.Form1.resources
+c:\users\merta\documents\visual studio 2012\Projects\BulkCodeGenerator\BulkCodeGenerator\obj\Debug\BulkCodeGenerator.Properties.Resources.resources
+c:\users\merta\documents\visual studio 2012\Projects\BulkCodeGenerator\BulkCodeGenerator\obj\Debug\BulkCodeGenerator.csproj.GenerateResource.Cache
+c:\users\merta\documents\visual studio 2012\Projects\BulkCodeGenerator\BulkCodeGenerator\obj\Debug\BulkCodeGenerator.exe
+c:\users\merta\documents\visual studio 2012\Projects\BulkCodeGenerator\BulkCodeGenerator\obj\Debug\BulkCodeGenerator.pdb
